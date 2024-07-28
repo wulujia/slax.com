@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "slax.com",
-  description: "build simple and relax tools",
+  description: "Building simple tools, making life relaxed",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -21,6 +21,12 @@ export default defineConfig({
       }
     ],
 
+    footer: [
+      {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright © 2019-present Evan You'
+      }
+    ],
 //    socialLinks: [
 //      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
 //    ]
