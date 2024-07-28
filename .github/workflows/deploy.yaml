@@ -42,7 +42,6 @@ jobs:
 
       - name: Build with VitePress
         run: pnpm docs:build
-        CNAME: https://www.slax.com
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
