@@ -42,6 +42,7 @@ jobs:
 
       - name: Build with VitePress
         run: pnpm docs:build
+        CNAME: https://www.slax.com
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -59,4 +60,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-    CNAME: https://www.slax.com
