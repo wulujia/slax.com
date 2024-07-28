@@ -21,12 +21,10 @@ export default defineConfig({
       }
     ],
 
-    footer: [
-      {
+    footer: {
       message: 'Simple tools, relaxed life.',
       copyright: 'Copyright © slax.com'
       }
-    ]
 //    socialLinks: [
 //      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
 //    ]
