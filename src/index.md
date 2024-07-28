@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Slax"
   text: "Simple & Relaxed"
-  tagline: Building simple tools, making life relaxed
+  tagline: Simple tools, relaxed life
   actions:
     - theme: brand
       text: Slax Note 

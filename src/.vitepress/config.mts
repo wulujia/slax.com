@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "slax.com",
-  description: "Building simple tools, making life relaxed",
+  description: "Simple tools, relaxed life",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -23,7 +23,7 @@ export default defineConfig({
 
     footer: [
       {
-      message: 'Building simple tools, making life relaxed.',
+      message: 'Simple tools, relaxed life.',
       copyright: 'Copyright © slax.com'
       }
     ],
