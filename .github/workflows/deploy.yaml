@@ -43,6 +43,11 @@ jobs:
       - name: Build with VitePress
         run: pnpm docs:build
 
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: src/.vitepress/dist
+
   deploy:
     environment:
       name: github-pages
