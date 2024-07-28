@@ -1,3 +1,3 @@
 # Slax Note
 
-Simple and intelligent voice notes, capture Every Idea, write effortlessly with voice.
+Simple and intelligent voice notes, capture every idea, write effortlessly with voice.
