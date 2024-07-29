@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Slax"
-  text: "Simple & Relaxed"
-  tagline: Simple tools, relaxed life
+  text: "Simple & Relax"
+  tagline: Simple tools, relax life
   actions:
     - theme: brand
       text: Slax Note 
@@ -15,12 +15,12 @@ hero:
       link: /slax-reader
 
 features:
+  - title: Pinpoint
+    details: Solving real, acute pain points with precision.
+  - title: Longterm
+    details: Decade-scale commitment. Building cumulative value like a snowball on a long, snow-rich slope.
   - title: Simplicity
-    details: Essential, intuitive, and clean. Clear design that aligns with common sense and requires no training.
-  - title: Longevity
-    details: Committed to creating enduring value, with a decade-long perspective.
-  - title: Small yet beautiful
-    details: Elegant solutions to specific pain points.
+    details: Essential and intuitive. Following natural patterns for clean, effortless design that requires no training.
   - title: Difference
     details: Delivering unique value in everything we do.
 ---
