@@ -15,12 +15,14 @@ hero:
       link: /slax-reader
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Simplicity
+    details: Essential, intuitive, and clean. Clear design that aligns with common sense and requires no training.
+  - title: Longevity
+    details: Committed to creating enduring value, with a decade-long perspective.
+  - title: Small yet beautiful
+    details: Elegant solutions to specific pain points.
+  - title: Difference
+    details: Delivering unique value in everything we do.
 ---
 
 <style>
