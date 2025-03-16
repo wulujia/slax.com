@@ -9,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Products', link: '/slax-note' }
+      { text: 'Products', link: '/slax-note' },
       { text: 'Blog', link: '/blog' }
     ],
 
