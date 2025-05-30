@@ -5,7 +5,7 @@ Pocket is shutting down, which sucks for saving full articles. We built a free, 
 The articles render exactly like the original sites, so you keep that clean reading experience.
 
 Here’s a quick peek at the interface:
-!(/img/20250530-1.png)
+!(../../.vuepress/public/img/20250530-1.png)
 
 I’ve thrown my own library of 3000+ articles at it, and the import process has been pretty smooth.
 
