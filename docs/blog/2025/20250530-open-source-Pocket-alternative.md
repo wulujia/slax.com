@@ -1,6 +1,6 @@
 # Built a free, open-source Pocket alternative that saves FULL articles (not just links) because of the shutdown
 
-Pocket is shutting down, which sucks for saving full articles. We built a free, open-source tool-Slax Reader that imports your Pocket library and saves the full content (not just links!) with your tags transferred.
+Pocket is shutting down, which sucks for saving full articles. We built a free, open-source tool-Slax Reader (https://r.slax.com) that imports your Pocket library and saves the full content (not just links!) with your tags transferred.
 
 The articles render exactly like the original sites, so you keep that clean reading experience.
 
